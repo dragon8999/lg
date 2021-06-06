@@ -1,0 +1,533 @@
+[
+  {
+    "id": 1,
+    "name": "360",
+    "detailRule": {
+      "title": "class.title-left g-clear.0@tag.h1.0@text",
+      "subTitle": "class.title-left g-clear.0@class.tag.0@text",
+      "cover": "class.g-playicon s-cover-img.0@tag.img.0@src",
+      "rate": "",
+      "info": "id.js-desc-switch.0@tag.div.1@text",
+      "summary": "id.js-desc-switch.0@tag.div.3@class.item-desc.0@text"
+    },
+    "channelRules": [
+      {
+        "channel": "电影",
+        "url": "https://www.360kan.com/dianying/index.html",
+        "groupRuleList": [
+          {
+            "type": 1,
+            "title": "近期热播",
+            "movieList": "class.w-newfigure-list g-clear js-view on.0@tag.li",
+            "movieTitle": "tag.img.0@alt",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 8,
+            "title": "高分电影榜",
+            "movieList": "class.m-content js-m-content.0@tag.a",
+            "movieTitle": "class.m-t2.0@text",
+            "movieUrl": "href",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 2,
+            "title": "网络热播",
+            "movieList": "class.g-wrap p-type13.0@tag.ul.0@tag.li",
+            "movieTitle": "tag.img.0@alt",
+            "movieUrl": "tag.a.0@data-url",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 1,
+            "title": "我的祖国",
+            "movieList": "class.m-mod4-list w-newfigure-list g-clear js-list.1@tag.li",
+            "movieTitle": "tag.img.0@alt",
+            "movieUrl": "tag.a.0@data-url",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 1,
+            "title": "大片派送",
+            "movieList": "class.m-mod4-list w-newfigure-list g-clear js-list.2@tag.li",
+            "movieTitle": "tag.img.0@alt",
+            "movieUrl": "tag.a.0@data-url",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 1,
+            "title": "网络大电影",
+            "movieList": "class.m-mod4-list w-newfigure-list g-clear js-list.3@tag.li",
+            "movieTitle": "tag.img.0@alt",
+            "movieUrl": "tag.a.0@data-url",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 1,
+            "title": "单身狗粮",
+            "movieList": "class.m-mod4-list w-newfigure-list g-clear js-list.4@tag.li",
+            "movieTitle": "tag.img.0@alt",
+            "movieUrl": "tag.a.0@data-url",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 1,
+            "title": "票房冠军",
+            "movieList": "class.m-mod4-list w-newfigure-list g-clear js-list.5@tag.li",
+            "movieTitle": "tag.img.0@alt",
+            "movieUrl": "tag.a.0@data-url",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 1,
+            "title": "港味无厘头",
+            "movieList": "class.m-mod4-list w-newfigure-list g-clear js-list.6@tag.li",
+            "movieTitle": "tag.img.0@alt",
+            "movieUrl": "tag.a.0@data-url",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 1,
+            "title": "噩梦的源头",
+            "movieList": "class.m-mod4-list w-newfigure-list g-clear js-list.7@tag.li",
+            "movieTitle": "tag.img.0@alt",
+            "movieUrl": "tag.a.0@data-url",
+            "movieCover": "tag.img.0@data-src"
+          }
+        ]
+      },
+      {
+        "channel": "电视剧",
+        "url": "https://www.360kan.com/dianshi/index.html?from=movie_channel",
+        "groupRuleList": [
+          {
+            "type": 8,
+            "title": "",
+            "movieList": "id.tj-topslider.0@class.group-wrap.0@tag.a",
+            "movieTitle": "tag.img.0@alt",
+            "movieUrl": "href",
+            "movieCover": "tag.img.0@src"
+          },
+          {
+            "type": 9,
+            "title": "爆款推荐",
+            "movieList": "class.list w-newfigure-list g-clear.0@tag.li",
+            "movieTitle": "tag.img.0@alt",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 1,
+            "title": "热播美剧",
+            "movieList": "class.b-n180x287slider-list g-clear w-newfigure-list.4@tag.li",
+            "movieTitle": "tag.img.0@alt",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 9,
+            "title": "硬汉来袭",
+            "movieList": "class.b-n180x153slider-list g-clear w-newfigure-list.0@tag.li",
+            "movieTitle": "tag.img.0@alt",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 1,
+            "title": "剧荒偏方",
+            "movieList": "class.b-n180x287slider-list g-clear w-newfigure-list.0@tag.li",
+            "movieTitle": "tag.img.0@alt",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 9,
+            "title": "网剧追追追",
+            "movieList": "class.b-n180x153slider-list g-clear w-newfigure-list.1@tag.li",
+            "movieTitle": "tag.img.0@alt",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 1,
+            "title": "韩剧有毒",
+            "movieList": "class.b-n180x287slider-list g-clear w-newfigure-list.2@tag.li",
+            "movieTitle": "tag.img.0@alt",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 9,
+            "title": "值得你N刷",
+            "movieList": "class.b-n180x153slider-list g-clear w-newfigure-list.2@tag.li",
+            "movieTitle": "tag.img.0@alt",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 1,
+            "title": "老戏经典",
+            "movieList": "class.b-n180x287slider-list g-clear w-newfigure-list.1@tag.li",
+            "movieTitle": "tag.img.0@alt",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 9,
+            "title": "满地狗粮",
+            "movieList": "class.b-n180x153slider-list g-clear w-newfigure-list.3@tag.li",
+            "movieTitle": "tag.img.0@alt",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 1,
+            "title": "甜蜜蜜",
+            "movieList": "class.list w-newfigure-list g-clear.1@tag.li",
+            "movieTitle": "tag.img.0@alt",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 9,
+            "title": "韩剧TOP榜",
+            "movieList": "class.b-n180x153slider-list g-clear w-newfigure-list.4@tag.li",
+            "movieTitle": "tag.img.0@alt",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 1,
+            "title": "热播泰剧",
+            "movieList": "class.b-n180x287slider-list g-clear w-newfigure-list.3@tag.li",
+            "movieTitle": "tag.img.0@alt",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 9,
+            "title": "狂欢-虐恋",
+            "movieList": "class.b-n180x153slider-list g-clear w-newfigure-list.5@tag.li",
+            "movieTitle": "tag.img.0@alt",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          }
+        ]
+      },
+      {
+        "channel": "综艺",
+        "url": "https://www.360kan.com/zongyi/index.html",
+        "groupRuleList": [
+          {
+            "type": 1,
+            "title": "俱佳精选",
+            "movieList": "class.b-topslidernew-btns js-slide-btns.0@tag.li",
+            "movieTitle": "class.b-topslidernew-tit.0@text",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "data-cover"
+          },
+          {
+            "type": 9,
+            "title": "正在热播",
+            "movieList": "class.rebo-list w-newfigure-list g-clear js-list.0@tag.li",
+            "movieTitle": "tag.img.0@alt",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 9,
+            "title": "重磅推荐",
+            "movieList": "class.m-mod3-list w-newfigure-list g-clear js-list.0@tag.li",
+            "movieTitle": "tag.img.0@alt",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 9,
+            "title": "生活不易",
+            "movieList": "class.list w-newfigure-list g-clear.0@tag.li",
+            "movieTitle": "tag.img.0@alt",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 9,
+            "title": "综艺在线",
+            "movieList": "class.list w-newfigure-list g-clear.1@tag.li",
+            "movieTitle": "tag.img.0@alt",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 9,
+            "title": "王牌综艺",
+            "movieList": "class.list w-newfigure-list g-clear.2@tag.li",
+            "movieTitle": "tag.img.0@alt",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 9,
+            "title": "喜剧大咖",
+            "movieList": "class.list w-newfigure-list g-clear.4@tag.li",
+            "movieTitle": "tag.img.0@alt",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 5,
+            "title": "脑力王者",
+            "movieList": "class.m-mod1-list w-newfigure-list g-clear js-list.2@tag.li",
+            "movieTitle": "tag.img.0@alt",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 5,
+            "title": "明星游记",
+            "movieList": "class.m-mod1-list w-newfigure-list g-clear js-list.3@tag.li",
+            "movieTitle": "tag.img.0@alt",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          }
+        ]
+      },
+      {
+        "channel": "儿童",
+        "url": "https://www.360kan.com/ertong/index.html",
+        "groupRuleList": [
+          {
+            "type": 8,
+            "title": "",
+            "movieList": "class.i-topslider-trigger js-trigger g-clear.0@tag.a",
+            "movieTitle": "title",
+            "movieUrl": "href",
+            "movieCover": "tag.img.0@src"
+          },
+          {
+            "type": 5,
+            "title": "热播动漫",
+            "movieList": "class.b-n234x175slider-list g-clear w-newfigure-list js-xxxslider-slide-list.0@tag.li",
+            "movieTitle": "title",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 1,
+            "title": "小可爱的专属",
+            "movieList": "class.b-n234x353slider-list g-clear w-newfigure-list js-xxxslider-slide-list.0@tag.li",
+            "movieTitle": "title",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 1,
+            "title": "超级大冒险",
+            "movieList": "class.b-n234x353slider-list g-clear w-newfigure-list js-xxxslider-slide-list.1@tag.li",
+            "movieTitle": "title",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 1,
+            "title": "魔法公主",
+            "movieList": "class.b-n234x353slider-list g-clear w-newfigure-list js-xxxslider-slide-list.2@tag.li",
+            "movieTitle": "title",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 9,
+            "title": "欢乐儿歌",
+            "movieList": "class.b-n234x175slider-list g-clear w-newfigure-list js-xxxslider-slide-list.8@tag.li",
+            "movieTitle": "title",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 1,
+            "title": "欧美经典",
+            "movieList": "class.b-n234x353slider-list g-clear w-newfigure-list js-xxxslider-slide-list.3@tag.li",
+            "movieTitle": "title",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 1,
+            "title": "国产经典",
+            "movieList": "class.b-n234x353slider-list g-clear w-newfigure-list js-xxxslider-slide-list.4@tag.li",
+            "movieTitle": "title",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 9,
+            "title": "安全教育",
+            "movieList": "class.b-n234x175slider-list g-clear w-newfigure-list js-xxxslider-slide-list.9@tag.li",
+            "movieTitle": "title",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 1,
+            "title": "搞笑开心",
+            "movieList": "class.b-n234x353slider-list g-clear w-newfigure-list js-xxxslider-slide-list.5@tag.li",
+            "movieTitle": "title",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 1,
+            "title": "温暖陪伴",
+            "movieList": "class.b-n234x353slider-list g-clear w-newfigure-list js-xxxslider-slide-list.6@tag.li",
+            "movieTitle": "title",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 1,
+            "title": "勇敢前行",
+            "movieList": "class.b-n234x353slider-list g-clear w-newfigure-list js-xxxslider-slide-list.7@tag.li",
+            "movieTitle": "title",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          }
+        ]
+      },
+      {
+        "channel": "动漫",
+        "url": "https://www.360kan.com/dongman/index.html",
+        "groupRuleList": [
+          {
+            "type": 8,
+            "title": "",
+            "movieList": "class.b-topslider-btns js-slide-btns.0@tag.li",
+            "movieTitle": "class.b-topslider-tit.0@text",
+            "movieUrl": "data-href",
+            "movieCover": "data-cover"
+          },
+          {
+            "type": 5,
+            "title": "热门推荐",
+            "movieList": "class.g-clear w-newfigure-list.0@tag.li",
+            "movieTitle": "title",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 4,
+            "title": "每连连看",
+            "subGroupRules": [
+              {
+                "title": "周一",
+                "movieList": "class.b-n234x353slider-list g-clear w-newfigure-list js-xxxslider-slide-list.0@tag.li",
+                "movieTitle": "title",
+                "movieUrl": "tag.a.0@href",
+                "movieCover": "tag.img.0@data-src"
+              },
+              {
+                "title": "周二",
+                "movieList": "class.b-n234x353slider-list g-clear w-newfigure-list js-xxxslider-slide-list.1@tag.li",
+                "movieTitle": "title",
+                "movieUrl": "tag.a.0@href",
+                "movieCover": "tag.img.0@data-src"
+              },
+              {
+                "title": "周三",
+                "movieList": "class.b-n234x353slider-list g-clear w-newfigure-list js-xxxslider-slide-list.2@tag.li",
+                "movieTitle": "title",
+                "movieUrl": "tag.a.0@href",
+                "movieCover": "tag.img.0@data-src"
+              },
+              {
+                "title": "周四",
+                "movieList": "class.b-n234x353slider-list g-clear w-newfigure-list js-xxxslider-slide-list.3@tag.li",
+                "movieTitle": "title",
+                "movieUrl": "tag.a.0@href",
+                "movieCover": "tag.img.0@data-src"
+              },
+              {
+                "title": "周五",
+                "movieList": "class.b-n234x353slider-list g-clear w-newfigure-list js-xxxslider-slide-list.4@tag.li",
+                "movieTitle": "title",
+                "movieUrl": "tag.a.0@href",
+                "movieCover": "tag.img.0@data-src"
+              },
+              {
+                "title": "周六",
+                "movieList": "class.b-n234x353slider-list g-clear w-newfigure-list js-xxxslider-slide-list.5@tag.li",
+                "movieTitle": "title",
+                "movieUrl": "tag.a.0@href",
+                "movieCover": "tag.img.0@data-src"
+              },
+              {
+                "title": "周日",
+                "movieList": "class.b-n234x353slider-list g-clear w-newfigure-list js-xxxslider-slide-list.6@tag.li",
+                "movieTitle": "title",
+                "movieUrl": "tag.a.0@href",
+                "movieCover": "tag.img.0@data-src"
+              }
+            ]
+          },
+          {
+            "type": 1,
+            "title": "国漫热盘",
+            "movieList": "class.b-n234x353slider-list g-clear w-newfigure-list js-xxxslider-slide-list.7@tag.li",
+            "movieTitle": "title",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 1,
+            "title": "经典日漫",
+            "movieList": "class.b-n234x353slider-list g-clear w-newfigure-list js-xxxslider-slide-list.8@tag.li",
+            "movieTitle": "title",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 1,
+            "title": "欧美动漫",
+            "movieList": "class.b-n234x353slider-list g-clear w-newfigure-list js-xxxslider-slide-list.9@tag.li",
+            "movieTitle": "title",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 1,
+            "title": "动漫电影",
+            "movieList": "class.b-n234x353slider-list g-clear w-newfigure-list js-xxxslider-slide-list.10@tag.li",
+            "movieTitle": "title",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 1,
+            "title": "有你好看",
+            "movieList": "class.b-n234x353slider-list g-clear w-newfigure-list js-xxxslider-slide-list.11@tag.li",
+            "movieTitle": "title",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 1,
+            "title": "搞笑动漫",
+            "movieList": "class.b-n234x353slider-list g-clear w-newfigure-list js-xxxslider-slide-list.12@tag.li",
+            "movieTitle": "title",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          },
+          {
+            "type": 1,
+            "title": "夜行鬼怪",
+            "movieList": "class.b-n234x353slider-list g-clear w-newfigure-list js-xxxslider-slide-list.13@tag.li",
+            "movieTitle": "title",
+            "movieUrl": "tag.a.0@href",
+            "movieCover": "tag.img.0@data-src"
+          }
+        ]
+      }
+    ]
+  }
+]
