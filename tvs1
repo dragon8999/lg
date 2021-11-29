@@ -1,0 +1,1213 @@
+﻿{
+    "sources": [
+    {
+      "key": "蓝光云",
+      "name": "蓝光云",
+      "type": 1, 
+      "api": "https://kuu.renrenmi.cc/api.php/provide/vod/?ac=list",
+      "playerUrl": ""
+    },
+    {
+      "key": "百度云",
+      "name": "百度云",
+      "type": 1, 
+      "api": "https://m3u8.apibdzy.com/api.php/provide/vod/?ac=list",
+      "playerUrl": ""
+    },
+    {
+      "key": "MPD蓝光",
+      "name": "MPD蓝光",
+      "type": 0, 
+      "api": "https://www.mgtv.one/api.php/provide/vod/at/xml",
+      "playerUrl": ""
+    },
+    {
+      "key": "快播",
+      "name": "快播",
+      "type": 0, 
+      "api": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml",
+      "playerUrl": ""
+    },
+    {
+      "key": "烂番茄",
+      "name": "烂番茄",
+      "type": 0, 
+      "api": "http://www.lfqdy.com/api.php/provide/vod/from/kbm3u8/at/xml",
+      "playerUrl": ""
+    },
+    {
+      "key": "速影",
+      "name": "速影",
+      "type": 0, 
+      "api": "https://xn--128-zm3fr26s.xyz/inc/api.php",
+      "playerUrl": ""
+    }
+    ], 
+    "live": [
+        {
+            "channelNum": 1, 
+            "channelName": "CCTV-1", 
+            "channelUrl": [
+                "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1",
+	            "http://39.134.24.24/PLTV/88888888/224/3221225684/index.m3u8",
+	            "http://39.134.24.24/PLTV/88888888/224/3221225829/index.m3u8",
+	            "http://39.134.24.24/PLTV/88888888/224/3221225652/index.m3u8",
+	            "http://39.134.24.24/PLTV/88888888/224/3221226024/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 2, 
+            "channelName": "CCTV-2", 
+            "channelUrl": [
+                "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv2/HD-8000k-1080P-cctv2",
+            	"http://39.134.24.24/PLTV/88888888/224/3221225686/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 3, 
+            "channelName": "CCTV-3", 
+            "channelUrl": [
+                "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-1080P-cctv3",
+	            "http://39.134.24.24/PLTV/88888888/224/3221226023/index.m3u8",
+	            "http://39.134.24.24/PLTV/88888888/224/3221225630/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 4, 
+            "channelName": "CCTV-4", 
+            "channelUrl": [
+                "http://183.207.248.71:80/cntv/live1/cctv-4/cctv-4",
+            	"http://39.134.24.24/PLTV/88888888/224/3221225662/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 5, 
+            "channelName": "CCTV-5", 
+            "channelUrl": [
+                "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv5/HD-8000k-1080P-cctv5",
+	            "http://39.134.24.24/PLTV/88888888/224/3221226025/index.m3u8",
+	            "http://39.134.24.24/PLTV/88888888/224/3221225758/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 6, 
+            "channelName": "CCTV-5+", 
+            "channelUrl": [
+                "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv05plus/HD-8000k-1080P-cctv05plus",
+            	"http://39.134.24.24/PLTV/88888888/224/3221225718/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 7, 
+            "channelName": "CCTV-6", 
+            "channelUrl": [
+                "http://183.207.248.71:80/cntv/live1/cctv-6/cctv-6",
+            	"http://39.134.24.24/PLTV/88888888/224/3221226027/index.m3u8",
+            	"http://39.134.24.24/PLTV/88888888/224/3221225708/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 8, 
+            "channelName": "CCTV-7", 
+            "channelUrl": [
+                "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv7/HD-8000k-1080P-cctv7",
+            	"http://39.134.24.24/PLTV/88888888/224/3221225855/index.m3u8",
+            	"http://39.134.24.24/PLTV/88888888/224/3221225768/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 9, 
+            "channelName": "CCTV-8", 
+            "channelUrl": [
+                "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv8/HD-8000k-1080P-cctv8",
+            	"http://39.134.24.24/PLTV/88888888/224/3221226029/index.m3u8",
+            	"http://39.134.24.24/PLTV/88888888/224/3221225666/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 10, 
+            "channelName": "CCTV-9", 
+            "channelUrl": [
+                "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv9/HD-8000k-1080P-cctv9",
+            	"http://39.134.24.24/PLTV/88888888/224/3221225672/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 11, 
+            "channelName": "CCTV-10", 
+            "channelUrl": [
+                "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv10/HD-8000k-1080P-cctv10",
+            	"http://39.134.24.24/PLTV/88888888/224/3221225823/index.m3u8",
+            	"http://39.134.24.24/PLTV/88888888/224/3221225782/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 12, 
+            "channelName": "CCTV-11", 
+            "channelUrl": [
+                "http://183.207.248.71:80/cntv/live1/n-cctv-11/n-cctv-11",
+            	"http://39.134.24.24/PLTV/88888888/224/3221225825/index.m3u8",
+            	"http://39.134.24.24/PLTV/88888888/224/3221225774/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 13, 
+            "channelName": "CCTV-12", 
+            "channelUrl": [
+                "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv12/HD-8000k-1080P-cctv12",
+            	"http://39.134.24.24/PLTV/88888888/224/3221225702/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 14, 
+            "channelName": "CCTV-13", 
+            "channelUrl": [
+                "http://183.207.248.71:80/cntv/live1/cctv-13/cctv-13",
+	            "http://39.134.24.24/PLTV/88888888/224/3221225827/index.m3u8",
+	            "http://39.134.24.24/PLTV/88888888/224/3221225612/index.m3u8",
+	            "http://39.134.24.24/PLTV/88888888/224/3221225650/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 15, 
+            "channelName": "CCTV-14", 
+            "channelUrl": [
+                "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv14/HD-8000k-1080P-cctv14",
+            	"http://39.134.24.24/PLTV/88888888/224/3221225857/index.m3u8",
+            	"http://39.134.24.24/PLTV/88888888/224/3221225658/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 16, 
+            "channelName": "CCTV-15", 
+            "channelUrl": [
+                "http://183.207.248.71:80/cntv/live1/n-cctv-15/n-cctv-15",
+            	"http://39.134.24.24/PLTV/88888888/224/3221225636/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 17, 
+            "channelName": "CCTV-17", 
+            "channelUrl": [
+                "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17",
+            	"http://39.134.24.24/PLTV/88888888/224/3221225859/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 18, 
+            "channelName": "安徽经视", 
+            "channelUrl": [
+                "http://zbbf2.ahtv.cn/live/750.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 19, 
+            "channelName": "安徽综艺", 
+            "channelUrl": [
+                "http://zbbf2.ahtv.cn/live/758.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 20, 
+            "channelName": "安徽影视", 
+            "channelUrl": [
+                "http://zbbf2.ahtv.cn/live/756.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 21, 
+            "channelName": "安徽科教", 
+            "channelUrl": [
+                "http://zbbf2.ahtv.cn/live/754.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 22, 
+            "channelName": "安徽公共", 
+            "channelUrl": [
+                "http://zbbf2.ahtv.cn/live/752.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 23, 
+            "channelName": "安徽人物", 
+            "channelUrl": [
+                "http://zbbf2.ahtv.cn/live/da9.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 24, 
+            "channelName": "安徽卫视", 
+            "channelUrl": [
+                "http://39.134.66.66/PLTV/88888888/224/3221225675/index.m3u8", 
+                "http://111.12.102.68:6610/PLTV/77777777/224/3221225671/index.m3u8?"
+            ]
+        }, 
+        {
+            "channelNum": 25, 
+            "channelName": "澳门卫视", 
+            "channelUrl": [
+                "http://61.244.22.4/ch3/ch3.live/playelist.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 26, 
+            "channelName": "北京卫视", 
+            "channelUrl": [
+                "http://117.169.119.199:8080/live/hdbeijingstv/index.m3u8", 
+                "http://111.12.102.68:6610/PLTV/77777777/224/3221225664/index.m3u8?", 
+                "http://111.12.102.68:6610/PLTV/77777777/224/3221225651/index.m3u8?"
+            ]
+        }, 
+        {
+            "channelNum": 27, 
+            "channelName": "兵团卫视", 
+            "channelUrl": [
+                "http://39.134.168.91/PLTV/1/224/3221225634/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 28, 
+            "channelName": "重庆卫视", 
+            "channelUrl": [
+                "http://111.12.102.68:6610/PLTV/77777777/224/3221225745/index.m3u8?", 
+                "http://ivi.bupt.edu.cn/hls/cqhd.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 29, 
+            "channelName": "东方卫视", 
+            "channelUrl": [
+                "http://39.135.138.59:18890/PLTV/88888910/224/3221225659/index.m3u8", 
+                "http://111.12.102.68:6610/PLTV/77777777/224/3221225682/index.m3u8?", 
+                "http://111.12.102.68:6610/PLTV/77777777/224/3221225718/index.m3u8?"
+            ]
+        }, 
+        {
+            "channelNum": 30, 
+            "channelName": "东南卫视", 
+            "channelUrl": [
+                "http://117.169.124.37:6610/ysten-businessmobile/live/dongnanstv/yst.m3u8", 
+                "http://111.12.102.68:6610/PLTV/77777777/224/3221225696/index.m3u8?", 
+                "http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 31, 
+            "channelName": "凤凰卫视", 
+            "channelUrl": [
+                "http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8", 
+                "http://117.169.120.138:8080/live/fhchinese/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 32, 
+            "channelName": "甘肃卫视", 
+            "channelUrl": [
+                "http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8", 
+                "http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=142&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1"
+            ]
+        }, 
+        {
+            "channelNum": 33, 
+            "channelName": "广东卫视", 
+            "channelUrl": [
+                "http://39.134.66.66/PLTV/88888888/224/3221225667/index.m3u8", 
+                "http://111.12.102.68:6610/PLTV/77777777/224/3221225666/index.m3u8?"
+            ]
+        }, 
+        {
+            "channelNum": 34, 
+            "channelName": "广西卫视", 
+            "channelUrl": [
+                "http://39.134.168.91/PLTV/1/224/3221225598/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 35, 
+            "channelName": "贵州卫视", 
+            "channelUrl": [
+                "http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=41&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1"
+            ]
+        }, 
+        {
+            "channelNum": 36, 
+            "channelName": "海南卫视", 
+            "channelUrl": [
+                "http://39.134.39.37/PLTV/88888888/224/3221226301/index.m3u8", 
+                "http://39.134.39.39/PLTV/88888888/224/3221226301/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 37, 
+            "channelName": "河南卫视", 
+            "channelUrl": [
+                "http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=19&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1", 
+                "http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 38, 
+            "channelName": "湖北卫视", 
+            "channelUrl": [
+                "http://111.12.102.68:6610/PLTV/77777777/224/3221225689/index.m3u8?", 
+                "http://111.12.102.68:6610/PLTV/77777777/224/3221225721/index.m3u8?", 
+                "http://223.110.243.171/PLTV/3/224/3221227211/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 39, 
+            "channelName": "湖南卫视", 
+            "channelUrl": [
+                "http://111.12.102.68:6610/PLTV/77777777/224/3221225692/index.m3u8?", 
+                "http://111.12.102.68:6610/PLTV/77777777/224/3221225719/index.m3u8?"
+            ]
+        }, 
+        {
+            "channelNum": 40, 
+            "channelName": "吉林卫视", 
+            "channelUrl": [
+                "http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=25&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1", 
+                "http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=25&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1", 
+                "http://39.134.168.91/PLTV/1/224/3221225586/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 41, 
+            "channelName": "江苏卫视", 
+            "channelUrl": [
+                "http://39.134.39.39/PLTV/88888888/224/3221226157/index.m3u8", 
+                "http://111.12.102.68:6610/PLTV/77777777/224/3221225636/index.m3u8?"
+            ]
+        }, 
+        {
+            "channelNum": 42, 
+            "channelName": "江西卫视", 
+            "channelUrl": [
+                "http://111.12.102.68:6610/PLTV/77777777/224/3221225669/index.m3u8?"
+            ]
+        }, 
+        {
+            "channelNum": 43, 
+            "channelName": "辽宁卫视", 
+            "channelUrl": [
+                "http://111.12.102.68:6610/PLTV/77777777/224/3221225639/index.m3u8?", 
+                "http://111.12.102.68:6610/PLTV/77777777/224/3221225779/index.m3u8?", 
+                "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227410/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 44, 
+            "channelName": "龙江卫视", 
+            "channelUrl": [
+                "http://39.134.116.30:8080/PLTV/88888910/224/3221225690/index.m3u8", 
+                "http://111.12.102.68:6610/PLTV/77777777/224/3221225686/index.m3u8?"
+            ]
+        }, 
+        {
+            "channelNum": 45, 
+            "channelName": "南方卫视", 
+            "channelUrl": [
+                "http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 46, 
+            "channelName": "内蒙卫视", 
+            "channelUrl": [
+                "http://live.m2oplus.nmtv.cn/1/sd/live.m3u8", 
+                "http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225836/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 47, 
+            "channelName": "宁夏卫视", 
+            "channelUrl": [
+                "http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225842/index.m3u8", 
+                "http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 48, 
+            "channelName": "青海卫视", 
+            "channelUrl": [
+                "http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=206&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1", 
+                "http://39.134.168.91/PLTV/1/224/3221225622/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 49, 
+            "channelName": "山东教育卫视", 
+            "channelUrl": [
+                "http://111.12.102.68:6610/PLTV/77777777/224/3221225708/index.m3u8?"
+            ]
+        }, 
+        {
+            "channelNum": 50, 
+            "channelName": "山东卫视", 
+            "channelUrl": [
+                "http://111.12.102.68:6610/PLTV/77777777/224/3221225642/index.m3u8?", 
+                "http://111.12.102.68:6610/PLTV/77777777/224/3221225672/index.m3u8?"
+            ]
+        }, 
+        {
+            "channelNum": 51, 
+            "channelName": "山西卫视", 
+            "channelUrl": [
+                "http://39.134.168.91/PLTV/1/224/3221225646/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 52, 
+            "channelName": "深圳卫视", 
+            "channelUrl": [
+                "http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8", 
+                "http://223.110.243.171/PLTV/3/224/3221227217/index.m3u8", 
+                "http://111.12.102.68:6610/PLTV/77777777/224/3221225691/index.m3u8?"
+            ]
+        }, 
+        {
+            "channelNum": 53, 
+            "channelName": "天津卫视", 
+            "channelUrl": [
+                "http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8", 
+                "http://111.12.102.68:6610/PLTV/77777777/224/3221225675/index.m3u8?"
+            ]
+        }, 
+        {
+            "channelNum": 54, 
+            "channelName": "西藏卫视", 
+            "channelUrl": [
+                "http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 55, 
+            "channelName": "香港卫视", 
+            "channelUrl": [
+                "http://zhibo.hkstv.tv/livestream/mutfysrq.flv"
+            ]
+        }, 
+        {
+            "channelNum": 56, 
+            "channelName": "新疆卫视", 
+            "channelUrl": [
+                "http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 57, 
+            "channelName": "星空卫视", 
+            "channelUrl": [
+                "http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=234&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1", 
+                "http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1"
+            ]
+        }, 
+        {
+            "channelNum": 58, 
+            "channelName": "亚旅卫视", 
+            "channelUrl": [
+                "http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 59, 
+            "channelName": "亚美卫视", 
+            "channelUrl": [
+                "http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 60, 
+            "channelName": "云南卫视", 
+            "channelUrl": [
+                "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225838/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 61, 
+            "channelName": "浙江卫视", 
+            "channelUrl": [
+                "http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8", 
+                "http://111.12.102.68:6610/PLTV/77777777/224/3221225695/index.m3u8?"
+            ]
+        }, 
+        {
+            "channelNum": 62, 
+            "channelName": "NewTV精品记录FHD", 
+            "channelUrl": [
+                "http://111.12.102.68:6610/PLTV/77777777/224/3221225681/index.m3u8?"
+            ]
+        }, 
+        {
+            "channelNum": 63, 
+            "channelName": "NewTV精品体育FHD", 
+            "channelUrl": [
+                "http://111.12.102.68:6610/PLTV/77777777/224/3221225724/index.m3u8?"
+            ]
+        }, 
+        {
+            "channelNum": 64, 
+            "channelName": "NewTV精品大剧FHD", 
+            "channelUrl": [
+                "http://111.12.102.68:6610/PLTV/77777777/224/3221225737/index.m3u8?"
+            ]
+        }, 
+        {
+            "channelNum": 65, 
+            "channelName": "NewTV中国功夫FHD", 
+            "channelUrl": [
+                "http://111.12.102.68:6610/PLTV/77777777/224/3221225690/index.m3u8?"
+            ]
+        }, 
+        {
+            "channelNum": 66, 
+            "channelName": "NewTV爱情喜剧FHD", 
+            "channelUrl": [
+                "http://111.12.102.68:6610/PLTV/77777777/224/3221225698/index.m3u8?"
+            ]
+        }, 
+        {
+            "channelNum": 67, 
+            "channelName": "NewTV动作电影FHD", 
+            "channelUrl": [
+                "http://111.12.102.68:6610/PLTV/77777777/224/3221225703/index.m3u8?"
+            ]
+        }, 
+        {
+            "channelNum": 68, 
+            "channelName": "NewTV古装剧场FHD", 
+            "channelUrl": [
+                "http://111.12.102.68:6610/PLTV/77777777/224/3221225706/index.m3u8?"
+            ]
+        }, 
+        {
+            "channelNum": 69, 
+            "channelName": "NewTV潮妈辣婆FHD", 
+            "channelUrl": [
+                "http://111.12.102.68:6610/PLTV/77777777/224/3221225709/index.m3u8?"
+            ]
+        }, 
+        {
+            "channelNum": 70, 
+            "channelName": "NewTV军旅剧场FHD", 
+            "channelUrl": [
+                "http://111.12.102.68:6610/PLTV/77777777/224/3221225727/index.m3u8?"
+            ]
+        }, 
+        {
+            "channelNum": 71, 
+            "channelName": "NewTV炫舞未来FHD", 
+            "channelUrl": [
+                "http://111.12.102.68:6610/PLTV/77777777/224/3221225728/index.m3u8?"
+            ]
+        }, 
+        {
+            "channelNum": 72, 
+            "channelName": "NewTV家庭剧场FHD", 
+            "channelUrl": [
+                "http://111.12.102.68:6610/PLTV/77777777/224/3221225743/index.m3u8?"
+            ]
+        }, 
+        {
+            "channelNum": 73, 
+            "channelName": "NewTV惊悚悬疑FHD", 
+            "channelUrl": [
+                "http://111.12.102.68:6610/PLTV/77777777/224/3221225746/index.m3u8?", 
+                "http://39.134.66.66/PLTV/88888888/224/3221225553/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 74, 
+            "channelName": "NewTV军事评论FHD", 
+            "channelUrl": [
+                "http://111.12.102.68:6610/PLTV/77777777/224/3221225749/index.m3u8?"
+            ]
+        }, 
+        {
+            "channelNum": 75, 
+            "channelName": "NewTV金牌综艺FHD", 
+            "channelUrl": [
+                "http://111.12.102.68:6610/PLTV/77777777/224/3221225755/index.m3u8?"
+            ]
+        }, 
+        {
+            "channelNum": 76, 
+            "channelName": "NewTV武博世界FHD", 
+            "channelUrl": [
+                "http://111.12.102.68:6610/PLTV/77777777/224/3221225758/index.m3u8?"
+            ]
+        }, 
+        {
+            "channelNum": 77, 
+            "channelName": "NewTV农业致富FHD", 
+            "channelUrl": [
+                "http://111.12.102.68:6610/PLTV/77777777/224/3221225687/index.m3u8?"
+            ]
+        }, 
+        {
+            "channelNum": 78, 
+            "channelName": "NewTV怡伴健康FHD", 
+            "channelUrl": [
+                "http://111.12.102.68:6610/PLTV/77777777/224/3221225684/index.m3u8?"
+            ]
+        }, 
+        {
+            "channelNum": 79, 
+            "channelName": "NewTV超级体育FHD", 
+            "channelUrl": [
+                "http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 80, 
+            "channelName": "NewTV东北热剧FHD", 
+            "channelUrl": [
+                "http://39.134.66.66/PLTV/88888888/224/3221225679/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 81, 
+            "channelName": "NewTV爱情喜剧", 
+            "channelUrl": [
+                "http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 82, 
+            "channelName": "NewTV搏击运动", 
+            "channelUrl": [
+                "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 83, 
+            "channelName": "NewTV动画王国", 
+            "channelUrl": [
+                "http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 84, 
+            "channelName": "NewTV动作电影", 
+            "channelUrl": [
+                "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 85, 
+            "channelName": "NewTV海外剧场", 
+            "channelUrl": [
+                "http://117.169.119.199:8080/live/xiqumd/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 86, 
+            "channelName": "NewTV欢乐剧场", 
+            "channelUrl": [
+                "http://39.135.135.81:80/wh7f454c46tw1744894462_1818032107/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8?icpid=88888888&RTS=1554599517&from=1&hms_devid=690"
+            ]
+        }, 
+        {
+            "channelNum": 87, 
+            "channelName": "NewTV精品电影", 
+            "channelUrl": [
+                "http://39.134.65.4:80/wh7f454c46tw1749080918_-1055122425/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225667/index.m3u8?icpid=88888888&RTS=1554599521&from=1&hms_devid=4"
+            ]
+        }, 
+        {
+            "channelNum": 88, 
+            "channelName": "NewTV军事评论", 
+            "channelUrl": [
+                "http://117.169.119.199:8080/live/junshipl/index.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 89, 
+            "channelName": "NewTV功夫剧场", 
+            "channelUrl": [
+                "http://39.134.65.84:80/wh7f454c46tw1933122944_256139629/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=130"
+            ]
+        }, 
+        {
+            "channelNum": 90, 
+            "channelName": "CIBN动漫剧场", 
+            "channelUrl": [
+                "http://v.iam7.cn/iptv/cibn.php?code=QinZi"
+            ]
+        }, 
+        {
+            "channelNum": 91, 
+            "channelName": "CIBN动作影院", 
+            "channelUrl": [
+                "http://v.iam7.cn/iptv/cibn.php?code=ShengHuo"
+            ]
+        }, 
+        {
+            "channelNum": 92, 
+            "channelName": "CIBN古典音乐", 
+            "channelUrl": [
+                "http://v.iam7.cn/iptv/cibn.php?code=78"
+            ]
+        }, 
+        {
+            "channelNum": 93, 
+            "channelName": "CIBN好莱坞", 
+            "channelUrl": [
+                "http://v.iam7.cn/iptv/cibn.php?code=ZongHe"
+            ]
+        }, 
+        {
+            "channelNum": 94, 
+            "channelName": "CIBN健康", 
+            "channelUrl": [
+                "http://v.iam7.cn/iptv/cibn.php?code=JianKang"
+            ]
+        }, 
+        {
+            "channelNum": 95, 
+            "channelName": "CIBN经典剧场", 
+            "channelUrl": [
+                "http://v.iam7.cn/iptv/cibn.php?code=DOTA2"
+            ]
+        }, 
+        {
+            "channelNum": 96, 
+            "channelName": "CIBN经典乐场", 
+            "channelUrl": [
+                "http://v.iam7.cn/iptv/cibn.php?code=162"
+            ]
+        }, 
+        {
+            "channelNum": 97, 
+            "channelName": "CIBN经典音乐", 
+            "channelUrl": [
+                "http://v.iam7.cn/iptv/cibn.php?code=128"
+            ]
+        }, 
+        {
+            "channelNum": 98, 
+            "channelName": "CIBN精品收藏", 
+            "channelUrl": [
+                "http://v.iam7.cn/iptv/cibn.php?code=501"
+            ]
+        }, 
+        {
+            "channelNum": 99, 
+            "channelName": "CIBN精品影院", 
+            "channelUrl": [
+                "http://v.iam7.cn/iptv/cibn.php?code=JingPin"
+            ]
+        }, 
+        {
+            "channelNum": 100, 
+            "channelName": "CIBN巨星演唱会", 
+            "channelUrl": [
+                "http://v.iam7.cn/iptv/cibn.php?code=135"
+            ]
+        }, 
+        {
+            "channelNum": 101, 
+            "channelName": "CIBN老陈座谈", 
+            "channelUrl": [
+                "http://v.iam7.cn/iptv/cibn.php?code=136"
+            ]
+        }, 
+        {
+            "channelNum": 102, 
+            "channelName": "CIBN流行榜单", 
+            "channelUrl": [
+                "http://v.iam7.cn/iptv/cibn.php?code=155"
+            ]
+        }, 
+        {
+            "channelNum": 103, 
+            "channelName": "CIBN流金岁月", 
+            "channelUrl": [
+                "http://v.iam7.cn/iptv/cibn.php?code=Shoucang"
+            ]
+        }, 
+        {
+            "channelNum": 104, 
+            "channelName": "CIBN女团专场", 
+            "channelUrl": [
+                "http://v.iam7.cn/iptv/cibn.php?code=208"
+            ]
+        }, 
+        {
+            "channelNum": 105, 
+            "channelName": "CIBN汽车", 
+            "channelUrl": [
+                "http://v.iam7.cn/iptv/cibn.php?code=QiChe"
+            ]
+        }, 
+        {
+            "channelNum": 106, 
+            "channelName": "CIBN情感影院", 
+            "channelUrl": [
+                "http://v.iam7.cn/iptv/cibn.php?code=QingGan"
+            ]
+        }, 
+        {
+            "channelNum": 107, 
+            "channelName": "CIBN全电竞", 
+            "channelUrl": [
+                "http://v.iam7.cn/iptv/cibn.php?code=115"
+            ]
+        }, 
+        {
+            "channelNum": 108, 
+            "channelName": "CIBN全球歌曲", 
+            "channelUrl": [
+                "http://v.iam7.cn/iptv/cibn.php?code=338"
+            ]
+        }, 
+        {
+            "channelNum": 109, 
+            "channelName": "CIBN莎翁戏剧", 
+            "channelUrl": [
+                "http://v.iam7.cn/iptv/cibn.php?code=68"
+            ]
+        }, 
+        {
+            "channelNum": 110, 
+            "channelName": "CIBN时尚生活", 
+            "channelUrl": [
+                "http://v.iam7.cn/iptv/cibn.php?code=DongLinFaYin"
+            ]
+        }, 
+        {
+            "channelNum": 111, 
+            "channelName": "CIBN文旅中国", 
+            "channelUrl": [
+                "http://v.iam7.cn/iptv/cibn.php?code=MeiZhuang"
+            ]
+        }, 
+        {
+            "channelNum": 112, 
+            "channelName": "CIBN怡家", 
+            "channelUrl": [
+                "http://v.iam7.cn/iptv/cibn.php?code=JiaoYu"
+            ]
+        }, 
+        {
+            "channelNum": 113, 
+            "channelName": "CIBN艺术院线", 
+            "channelUrl": [
+                "http://v.iam7.cn/iptv/cibn.php?code=YingXiong"
+            ]
+        }, 
+        {
+            "channelNum": 114, 
+            "channelName": "CIBN音乐综艺", 
+            "channelUrl": [
+                "http://v.iam7.cn/iptv/cibn.php?code=145"
+            ]
+        }, 
+        {
+            "channelNum": 115, 
+            "channelName": "CIBN映画", 
+            "channelUrl": [
+                "http://v.iam7.cn/iptv/cibn.php?code=TiYu"
+            ]
+        }, 
+        {
+            "channelNum": 116, 
+            "channelName": "CIBN院线大片", 
+            "channelUrl": [
+                "http://v.iam7.cn/iptv/cibn.php?code=DanJi"
+            ]
+        }, 
+        {
+            "channelNum": 117, 
+            "channelName": "CIBN真人秀", 
+            "channelUrl": [
+                "http://v.iam7.cn/iptv/cibn.php?code=LuShi"
+            ]
+        }, 
+        {
+            "channelNum": 118, 
+            "channelName": "爱都市", 
+            "channelUrl": [
+                "http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com"
+            ]
+        }, 
+        {
+            "channelNum": 119, 
+            "channelName": "爱江湖", 
+            "channelUrl": [
+                "http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com"
+            ]
+        }, 
+        {
+            "channelNum": 120, 
+            "channelName": "爱解密", 
+            "channelUrl": [
+                "http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualDomain=zjhs.live_hls.zte.com"
+            ]
+        }, 
+        {
+            "channelNum": 121, 
+            "channelName": "爱经典", 
+            "channelUrl": [
+                "http://101.71.255.229:6610/zjhs/2/10106/index.m3u8?virtualDomain=zjhs.live_hls.zte.com"
+            ]
+        }, 
+        {
+            "channelNum": 122, 
+            "channelName": "爱军武", 
+            "channelUrl": [
+                "http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=zjhs.live_hls.zte.com"
+            ]
+        }, 
+        {
+            "channelNum": 123, 
+            "channelName": "爱浪漫", 
+            "channelUrl": [
+                "http://101.71.255.229:6610/zjhs/2/10115/index.m3u8?virtualDomain=zjhs.live_hls.zte.com"
+            ]
+        }, 
+        {
+            "channelNum": 124, 
+            "channelName": "爱历史", 
+            "channelUrl": [
+                "http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com"
+            ]
+        }, 
+        {
+            "channelNum": 125, 
+            "channelName": "爱美食", 
+            "channelUrl": [
+                "http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com"
+            ]
+        }, 
+        {
+            "channelNum": 126, 
+            "channelName": "爱奇谈", 
+            "channelUrl": [
+                "http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com"
+            ]
+        }, 
+        {
+            "channelNum": 127, 
+            "channelName": "爱时尚", 
+            "channelUrl": [
+                "http://101.71.255.229:6610/zjhs/2/10118/index.m3u8?virtualDomain=zjhs.live_hls.zte.com"
+            ]
+        }, 
+        {
+            "channelNum": 128, 
+            "channelName": "爱世界", 
+            "channelUrl": [
+                "http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com"
+            ]
+        }, 
+        {
+            "channelNum": 129, 
+            "channelName": "爱玩具", 
+            "channelUrl": [
+                "http://101.71.255.229:6610/zjhs/2/10117/index.m3u8?virtualDomain=zjhs.live_hls.zte.com"
+            ]
+        }, 
+        {
+            "channelNum": 130, 
+            "channelName": "爱喜剧", 
+            "channelUrl": [
+                "http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com"
+            ]
+        }, 
+        {
+            "channelNum": 131, 
+            "channelName": "爱谍战", 
+            "channelUrl": [
+                "http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/1.m3u8"
+            ]
+        }, 
+        {
+            "channelNum": 132, 
+            "channelName": "爱幼教", 
+            "channelUrl": [
+                "http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=zjhs.live_hls.zte.com"
+            ]
+        }
+    ], 
+    "parseFlag": [
+        "youku", 
+        "qq", 
+        "iqiyi", 
+        "qiyi", 
+        "letv", 
+        "sohu", 
+        "tudou", 
+        "pptv", 
+        "mgtv", 
+        "wasu"
+    ], 
+    "parseUrl": [
+        {
+            "parseName": "极速VIP", 
+            "parseUrl": "https://www.tutukiki.com/m3u8/?url="
+        },
+        {
+            "parseName": "ok", 
+            "parseUrl": "https://okjx.cc/?url="
+        },
+        {
+            "parseName": "解析1", 
+            "parseUrl": "https://jx.kuluni.cn/?url="
+        },
+        {
+            "parseName": "解析2", 
+            "parseUrl": "https://dm.lby.pet/m3u8.php?url="
+        }, 
+        {
+            "parseName": "解析3", 
+            "parseUrl": "http://api.baiyug.vip/index.php?url="
+        }, 
+        {
+            "parseName": "解析4", 
+            "parseUrl": "http://playx.top/?url="
+        }, 
+        {
+            "parseName": "解析5", 
+            "parseUrl": "http://play1.online/?url="
+        }, 
+        {
+            "parseName": "解析6", 
+            "parseUrl": "http://api.baiyug.vip/?url="
+        }, 
+        {
+            "parseName": "解析7", 
+            "parseUrl": "http://bofang.online/?url="
+        }, 
+        {
+            "parseName": "解析8", 
+            "parseUrl": "http://607p.com/?url="
+        }, 
+        {
+            "parseName": "解析9", 
+            "parseUrl": "http://pangujx.cc/?url="
+        }, 
+        {
+            "parseName": "解析10", 
+            "parseUrl": "http://jx.quanmingjiexi.com/?url="
+        }, 
+        {
+            "parseName": "解析11", 
+            "parseUrl": "https://okjx.cc?url="
+        }, 
+        {
+            "parseName": "解析12", 
+            "parseUrl": "http://jqaaa.com/jx.php?url="
+        }, 
+        {
+            "parseName": "解析13", 
+            "parseUrl": "https://www.qianyicp.com/jiexi/index.php?url="
+        }, 
+        {
+            "parseName": "解析14", 
+            "parseUrl": "https://www.xymav.com/?url="
+        }, 
+        {
+            "parseName": "解析15", 
+            "parseUrl": "https://www.1717yun.com/jx/ty.php?url="
+        }, 
+        {
+            "parseName": "解析16", 
+            "parseUrl": "https://jx.mw0.cc/?url="
+        }, 
+        {
+            "parseName": "解析17", 
+            "parseUrl": "https://jx.618g.com/?url="
+        }, 
+        {
+            "parseName": "解析18", 
+            "parseUrl": "https://plamgtvcache.ccyjjd.com/play.php?url="
+        }
+    ], 
+    "filter": {
+        "base": [
+            "电视剧", 
+            "连续剧", 
+            "电影", 
+            "剧集"
+        ], 
+        "adolescent": [
+            "伦理",
+            "公告",
+            "头条",
+            "论理", 
+            "倫理", 
+            "福利", 
+            "激情", 
+            "理论", 
+            "写真", 
+            "情色", 
+            "美女", 
+            "街拍", 
+            "赤足", 
+            "性感", 
+            "里番",
+            "资讯",
+            "VIP"
+        ]
+    }, 
+    "ijk": {
+        "option_bak": [
+            "4|opensles|0", 
+            "4|overlay-format|842225234", 
+            "4|framedrop|1", 
+            "4|start-on-prepared|1", 
+            "1|http-detect-range-support|0", 
+            "2|skip_loop_filter|48", 
+            "4|reconnect|1", 
+            "4|enable-accurate-seek|1"
+        ], 
+        "option": [
+            "4|opensles|0", 
+            "4|overlay-format|842225234", 
+            "4|framedrop|1", 
+            "4|soundtouch|1", 
+            "4|start-on-prepared|1", 
+            "1|http-detect-range-support|0", 
+            "1|fflags|fastseek", 
+            "2|skip_loop_filter|48", 
+            "4|reconnect|1", 
+            "4|max-buffer-size|5242880", 
+            "4|enable-accurate-seek|0"
+        ], 
+        "config": [
+            {
+                "name": "软解码", 
+                "option": [
+                    "4|mediacodec|0", 
+                    "4|mediacodec-auto-rotate|0", 
+                    "4|mediacodec-handle-resolution-change|0", 
+                    "4|mediacodec-hevc|0"
+                ]
+            }, 
+            {
+                "name": "硬解码1", 
+                "option": [
+                    "4|mediacodec|1", 
+                    "4|mediacodec-auto-rotate|1", 
+                    "4|mediacodec-handle-resolution-change|1", 
+                    "4|mediacodec-hevc|1"
+                ]
+            }, 
+            {
+                "name": "硬解码2", 
+                "option": [
+                    "4|mediacodec|1", 
+                    "4|mediacodec-auto-rotate|1", 
+                    "4|mediacodec-handle-resolution-change|1", 
+                    "4|mediacodec-hevc|0"
+                ]
+            }
+        ]
+    }, 
+    "ads": [
+        "www.abc.cn",
+        "cms.abc.com"
+    ]
+}
