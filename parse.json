@@ -1,0 +1,135 @@
+[
+    {
+        "name": "qq",
+        "parse": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url=",
+        "parse2": "https://jf.96ym.cn/home/api?type=ys&uid=1399945&key=bcdjswBCDGKLNPS012&url="
+    },
+    {
+        "name": "mgtv",
+        "parse": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url=",
+        "parse2": "https://jf.96ym.cn/home/api?type=ys&uid=1399945&key=bcdjswBCDGKLNPS012&url="
+    },
+    {
+        "name": "youku",
+        "parse": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url=",
+        "parse2": "https://jf.96ym.cn/home/api?type=ys&uid=1399945&key=bcdjswBCDGKLNPS012&url="
+    },
+    {
+        "name": "qiyi",
+        "parse": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url=",
+        "parse2": "https://jf.96ym.cn/home/api?type=ys&uid=1399945&key=bcdjswBCDGKLNPS012&url="
+    },
+    {
+        "name": "pptv",
+        "parse": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url=",
+        "parse2": "https://json.iku.cool/api/?key=XJ97JaoJdQ71JxWr50&url="
+    },
+    {
+        "name": "sohu",
+        "parse": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url=",
+        "parse2": "https://jf.96ym.cn/home/api?type=ys&uid=1399945&key=bcdjswBCDGKLNPS012&url="
+    },
+    {
+        "name": "letv",
+        "parse": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url=",
+        "parse2": "https://jf.96ym.cn/home/api?type=ys&uid=1399945&key=bcdjswBCDGKLNPS012&url="
+    },
+    {
+        "name": "migu",
+        "parse": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url=",
+        "parse2": "https://jf.96ym.cn/home/api?type=ys&uid=1399945&key=bcdjswBCDGKLNPS012&url="
+    },
+    {
+        "name": "tudou",
+        "parse": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url=",
+        "parse2": "https://jf.96ym.cn/home/api?type=ys&uid=1399945&key=bcdjswBCDGKLNPS012&url="
+    },
+    {
+        "name": "bilibili",
+        "parse": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url=",
+        "parse2": "https://jf.96ym.cn/home/api?type=ys&uid=1399945&key=bcdjswBCDGKLNPS012&url="
+    },
+    
+    
+    
+    {
+        "name": "duoduozy",
+        "parse": "http://a.dxzj88.com:80/ddzy/dd.php?url=",
+        "parse2": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url="
+    },
+    {
+        "name": "renrenmi",
+        "parse": "https://a.dxzj88.com/jxrrm/jiami.php?url=",
+        "parse2": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url="
+    },
+    {
+        "name": "ltnb",
+        "parse": "http://106.75.184.231:4433/ltm3u8/ltxin1121111.php?url=",
+        "parse2": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url="
+    },
+    {
+        "name": "miaoparty",
+        "parse": "http://106.55.104.179:7788/apppi.php?vid=155540&sindex=0&url=",
+        "parse2": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url="
+    },
+    {
+        "name": "miaoparty2",
+        "parse": "https://vip.aiaine.com/api/?key=sMjlFudTg6mxdU8Kn6&url=",
+        "parse2": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url="
+    },
+    {
+        "name": "miaoparty3",
+        "parse": "https://vip.aiaine.com/api/?key=sMjlFudTg6mxdU8Kn6&url=",
+        "parse2": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url="
+    },
+    {
+        "name": "laodiyun",
+        "parse": "http://jx.laodi.xyz:6699/api.php/user/jx?uid=4&ldkey=BLsUKYVZiWdmQc7bbpT3&url=",
+        "parse2": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url="
+    },
+    {
+        "name": "laodi",
+        "parse": "http://jx.laodi.xyz:6699/api.php/user/jx?uid=4&ldkey=BLsUKYVZiWdmQc7bbpT3&url=",
+        "parse2": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url="
+    },
+    {
+        "name": "laodim3u8",
+        "parse": "http://jx.laodi.xyz:6699/api.php/user/jx?uid=4&ldkey=BLsUKYVZiWdmQc7bbpT3&url=",
+        "parse2": "http://jx.laodi.xyz:6699/api.php/user/jx?uid=4&ldkey=BLsUKYVZiWdmQc7bbpT3&url="
+    },
+    {
+        "name": "lekanzyw",
+        "parse": "https://api.xkvideo.design/lekan.php?url=",
+        "parse2": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url="
+    },
+    {
+        "name": "rx",
+        "parse": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url=",
+        "parse2": "https://jx.xl6.top/json/?url="
+    },
+    {
+        "name": "CL4K",
+        "parse": "http://jx.yjhan.com:8090/home/api?type=ys&uid=104819&key=aejklmvwJKMQRS2348&url=",
+        "parse2": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url="
+    },
+    {
+        "name": "fuckapp",
+        "parse": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url=",
+        "parse2": "http://jf.1080p.icu:3232/home/api?type=dsp&uid=147565&key=adilmopuBEFJNUV067&url="
+    },
+    {
+        "name": "1080P",
+        "parse": "https://hzhcbkj.cn/1199/json.php?uid=",
+        "parse2": "https://hzhcbkj.cn/1199/json.php?uid="
+    },
+    {
+        "name": "xfyun",
+        "parse": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url=",
+        "parse2": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url="
+    },
+    {
+        "name": "wuduzy",
+        "parse": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url=",
+        "parse2": "http://jf.1080p.icu:3232/home/api?type=dsp&uid=147565&key=adilmopuBEFJNUV067&url="
+    }
+    ]
