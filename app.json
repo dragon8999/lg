@@ -1,0 +1,29 @@
+{
+    "update": {
+        "vod_force": true,
+        "vod_version": 407,
+        "vod_msg": "- 无法更新的用户\n- 关注微信公众号",
+        "vod_url": "https://ysm.lanzouh.com/iK5JD03wtflg"
+    },
+    "bulletin": {
+        "vod_msg": "\n欢迎使用影视猫\n\n\n软件服务器目前已恢复正常，感谢大家的支持！！！"
+    },
+    "banner": {
+        "vod_id": "https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&inviteCode=1HB82I&businessType=9&from=246610&biz=ka",
+        "vod_type": "3",
+        "vod_title": "QQ频道、软件交流、BUG反馈",
+        "vod_pic": "http://120.77.94.20:88/img/ba.jpg"
+    },
+    "share": {
+        "vod_sharemsg": "发现了一个看电影神器，每天更新多种大片，美剧，追剧超方便，点我下载吧~：\n\nhttps://www.123pan.com/s/KZp9-hcdWd [分享自影视猫]"
+    },
+    "wldata": {
+        "vod_switch": false
+    },
+    "kpad": {
+        "vod_switch": false
+    },
+    "xxlad": {
+        "vod_switch": false
+    }
+}
