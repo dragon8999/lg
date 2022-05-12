@@ -6,13 +6,11 @@
         "播放UA": ""
     },
     {
-        "名称": "饭团影视",
-        "搜索链接": "http://television.wkfile.com/api.php/provide/vod/",
+        "名称": "紫米影视",
+        "搜索链接": "https://nmba.vip/lvdou_api.php/v1.vod",
         "搜索UA": "",
-        "播放UA": "User-Agent#Dart/2.14 (dart:io)&&&origin#https://ptwo.wkfile.com"
+        "播放UA": ""
     },
-   
-    
     {
         "名称": "天空影视",
         "搜索链接": "https://www.tkys.tv/xgapp.php/v1/",
@@ -42,6 +40,11 @@
         "搜索链接": "http://mkk.gotka.top/api.php/v1.vod",
         "搜索UA": "User-Agent#Dalvik/2.1.0 (Linux; U; Android 10; VOG-AL00 Build/HUAWEIVOG-AL00)",
         "播放UA": ""
+    },
+    {
+        "名称": "饭团影视",
+        "搜索链接": "http://television.wkfile.com/api.php/provide/vod/",
+        "搜索UA": "User-Agent#Dart/2.14 (dart:io)",
+        "播放UA": "User-Agent#Dart/2.14 (dart:io)&&&origin#https://ptwo.wkfile.com"
     }
-    
 ]
