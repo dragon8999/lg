@@ -1,121 +1,126 @@
 [
     {
         "name": "qq",
-        "parse": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url=",
-        "parse2": "https://jf.96ym.cn/home/api?type=ys&uid=1399945&key=bcdjswBCDGKLNPS012&url="
+        "parse": "https://json.iku.cool/api/?key=8JZsOCHNEzJX3X0QmK&url=",
+        "parse2": "https://svip.daina.hk/api/?uid=10799&key=osz5rPHQ1asZtJM1Jv&url="
     },
     {
         "name": "mgtv",
-        "parse": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url=",
-        "parse2": "https://jf.96ym.cn/home/api?type=ys&uid=1399945&key=bcdjswBCDGKLNPS012&url="
+        "parse": "https://svip.daina.hk/api/?uid=10799&key=osz5rPHQ1asZtJM1Jv&url=",
+        "parse2": "https://json.iku.cool/api/?key=8JZsOCHNEzJX3X0QmK&url="
     },
     {
         "name": "youku",
-        "parse": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url=",
-        "parse2": "https://jf.96ym.cn/home/api?type=ys&uid=1399945&key=bcdjswBCDGKLNPS012&url="
+        "parse": "https://json.iku.cool/api/?key=8JZsOCHNEzJX3X0QmK&url=",
+        "parse2": "https://svip.daina.hk/api/?uid=10799&key=osz5rPHQ1asZtJM1Jv&url="
     },
     {
         "name": "qiyi",
-        "parse": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url=",
-        "parse2": "https://jf.96ym.cn/home/api?type=ys&uid=1399945&key=bcdjswBCDGKLNPS012&url="
+        "parse": "https://svip.daina.hk/api/?uid=10799&key=osz5rPHQ1asZtJM1Jv&url=",
+        "parse2": "https://json.iku.cool/api/?key=8JZsOCHNEzJX3X0QmK&url="
     },
     {
         "name": "pptv",
-        "parse": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url=",
-        "parse2": "https://json.iku.cool/api/?key=XJ97JaoJdQ71JxWr50&url="
+        "parse": "https://json.iku.cool/api/?key=8JZsOCHNEzJX3X0QmK&url=",
+        "parse2": "https://svip.daina.hk/api/?uid=10799&key=osz5rPHQ1asZtJM1Jv&url="
     },
     {
         "name": "sohu",
-        "parse": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url=",
-        "parse2": "https://jf.96ym.cn/home/api?type=ys&uid=1399945&key=bcdjswBCDGKLNPS012&url="
+        "parse": "https://json.iku.cool/api/?key=8JZsOCHNEzJX3X0QmK&url=",
+        "parse2": "https://svip.daina.hk/api/?uid=10799&key=osz5rPHQ1asZtJM1Jv&url="
     },
     {
         "name": "letv",
-        "parse": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url=",
-        "parse2": "https://jf.96ym.cn/home/api?type=ys&uid=1399945&key=bcdjswBCDGKLNPS012&url="
+        "parse": "https://json.iku.cool/api/?key=8JZsOCHNEzJX3X0QmK&url=",
+        "parse2": "https://svip.daina.hk/api/?uid=10799&key=osz5rPHQ1asZtJM1Jv&url="
     },
     {
         "name": "migu",
-        "parse": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url=",
-        "parse2": "https://jf.96ym.cn/home/api?type=ys&uid=1399945&key=bcdjswBCDGKLNPS012&url="
+        "parse": "https://json.iku.cool/api/?key=8JZsOCHNEzJX3X0QmK&url=",
+        "parse2": "https://svip.daina.hk/api/?uid=10799&key=osz5rPHQ1asZtJM1Jv&url="
     },
     {
         "name": "tudou",
-        "parse": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url=",
-        "parse2": "https://jf.96ym.cn/home/api?type=ys&uid=1399945&key=bcdjswBCDGKLNPS012&url="
+        "parse": "https://json.iku.cool/api/?key=8JZsOCHNEzJX3X0QmK&url=",
+        "parse2": "https://svip.daina.hk/api/?uid=10799&key=osz5rPHQ1asZtJM1Jv&url="
     },
     {
         "name": "bilibili",
-        "parse": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url=",
-        "parse2": "https://jf.96ym.cn/home/api?type=ys&uid=1399945&key=bcdjswBCDGKLNPS012&url="
+        "parse": "https://json.iku.cool/api/?key=8JZsOCHNEzJX3X0QmK&url=",
+        "parse2": "https://svip.daina.hk/api/?uid=10799&key=osz5rPHQ1asZtJM1Jv&url="
     },
     
     
     
     {
         "name": "duoduozy",
-        "parse": "http://a.dxzj88.com:80/ddzy/dd.php?url=",
-        "parse2": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url="
+        "parse": "https://svip.daina.hk/api/?uid=10799&key=osz5rPHQ1asZtJM1Jv&url=",
+        "parse2": "https://json.iku.cool/api/?key=8JZsOCHNEzJX3X0QmK&url="
     },
     {
         "name": "renrenmi",
-        "parse": "https://a.dxzj88.com/jxrrm/jiami.php?url=",
-        "parse2": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url="
+        "parse": "https://svip.daina.hk/api/?uid=10799&key=osz5rPHQ1asZtJM1Jv&url=",
+        "parse2": "https://json.iku.cool/api/?key=8JZsOCHNEzJX3X0QmK&url="
     },
     {
         "name": "ltnb",
-        "parse": "http://106.75.184.231:4433/ltm3u8/ltxin1121111.php?url=",
-        "parse2": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url="
+        "parse": "https://svip.daina.hk/api/?uid=10799&key=osz5rPHQ1asZtJM1Jv&url=",
+        "parse2": "http://47.98.234.2:7768/api.php?from=ltnb&url="
+    },
+    {
+        "name": "Glory",
+        "parse": "https://svip.daina.hk/api/?uid=10799&key=osz5rPHQ1asZtJM1Jv&url=",
+        "parse2": "http://ryjx.kfvideos.com/api/?key=9CFufPu6Ut59SLsbbo&url="
     },
     {
         "name": "miaoparty",
-        "parse": "http://106.55.104.179:7788/apppi.php?vid=155540&sindex=0&url=",
-        "parse2": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url="
+        "parse": "https://svip.daina.hk/api/?uid=10799&key=osz5rPHQ1asZtJM1Jv&url=",
+        "parse2": "https://json.iku.cool/api/?key=8JZsOCHNEzJX3X0QmK&url="
     },
     {
         "name": "miaoparty2",
-        "parse": "https://vip.aiaine.com/api/?key=sMjlFudTg6mxdU8Kn6&url=",
-        "parse2": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url="
+        "parse": "https://svip.daina.hk/api/?uid=10799&key=osz5rPHQ1asZtJM1Jv&url=",
+        "parse2": "https://json.iku.cool/api/?key=8JZsOCHNEzJX3X0QmK&url="
     },
     {
         "name": "miaoparty3",
-        "parse": "https://vip.aiaine.com/api/?key=sMjlFudTg6mxdU8Kn6&url=",
-        "parse2": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url="
+        "parse": "https://svip.daina.hk/api/?uid=10799&key=osz5rPHQ1asZtJM1Jv&url=",
+        "parse2": "https://json.iku.cool/api/?key=8JZsOCHNEzJX3X0QmK&url="
     },
     {
         "name": "laodiyun",
-        "parse": "http://jx.laodi.xyz:6699/api.php/user/jx?uid=4&ldkey=BLsUKYVZiWdmQc7bbpT3&url=",
-        "parse2": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url="
+        "parse": "https://svip.daina.hk/api/?uid=10799&key=osz5rPHQ1asZtJM1Jv&url=",
+        "parse2": "https://json.iku.cool/api/?key=8JZsOCHNEzJX3X0QmK&url="
     },
     {
         "name": "laodi",
-        "parse": "http://jx.laodi.xyz:6699/api.php/user/jx?uid=4&ldkey=BLsUKYVZiWdmQc7bbpT3&url=",
-        "parse2": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url="
+        "parse": "https://svip.daina.hk/api/?uid=10799&key=osz5rPHQ1asZtJM1Jv&url=",
+        "parse2": "https://json.iku.cool/api/?key=8JZsOCHNEzJX3X0QmK&url="
     },
     {
         "name": "laodim3u8",
-        "parse": "http://jx.laodi.xyz:6699/api.php/user/jx?uid=4&ldkey=BLsUKYVZiWdmQc7bbpT3&url=",
-        "parse2": "http://jx.laodi.xyz:6699/api.php/user/jx?uid=4&ldkey=BLsUKYVZiWdmQc7bbpT3&url="
+        "parse": "https://svip.daina.hk/api/?uid=10799&key=osz5rPHQ1asZtJM1Jv&url=",
+        "parse2": "https://json.iku.cool/api/?key=8JZsOCHNEzJX3X0QmK&url="
     },
     {
         "name": "lekanzyw",
         "parse": "https://api.xkvideo.design/lekan.php?url=",
-        "parse2": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url="
+        "parse2": "https://json.iku.cool/api/?key=8JZsOCHNEzJX3X0QmK&url="
     },
     {
         "name": "rx",
-        "parse": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url=",
-        "parse2": "https://jx.xl6.top/json/?url="
+        "parse": "https://svip.daina.hk/api/?uid=10799&key=osz5rPHQ1asZtJM1Jv&url=",
+        "parse2": "http://47.98.234.2:7768/api.php?from=rx&url="
     },
     {
         "name": "CL4K",
-        "parse": "http://jx.yjhan.com:8090/home/api?type=ys&uid=104819&key=aejklmvwJKMQRS2348&url=",
-        "parse2": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url="
+        "parse": "https://svip.daina.hk/api/?uid=10799&key=osz5rPHQ1asZtJM1Jv&url=",
+        "parse2": "http://jx.yjhan.com:8090/home/api?type=ys&uid=213504&key=aefhjkqrtDHIPRSVWZ&url="
     },
     {
         "name": "fuckapp",
-        "parse": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url=",
-        "parse2": "http://jf.1080p.icu:3232/home/api?type=dsp&uid=147565&key=adilmopuBEFJNUV067&url="
+        "parse": "https://svip.daina.hk/api/?uid=10799&key=osz5rPHQ1asZtJM1Jv&url=",
+        "parse2": "https://json.iku.cool/api/?key=8JZsOCHNEzJX3X0QmK&url="
     },
     {
         "name": "1080P",
@@ -124,12 +129,17 @@
     },
     {
         "name": "xfyun",
-        "parse": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url=",
-        "parse2": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url="
+        "parse": "https://svip.daina.hk/api/?uid=10799&key=osz5rPHQ1asZtJM1Jv&url=",
+        "parse2": "https://json.iku.cool/api/?key=8JZsOCHNEzJX3X0QmK&url="
+    },
+    {
+        "name": "xueren",
+        "parse": "https://svip.daina.hk/api/?uid=10799&key=osz5rPHQ1asZtJM1Jv&url=",
+        "parse2": "https://json.iku.cool/api/?key=8JZsOCHNEzJX3X0QmK&url="
     },
     {
         "name": "wuduzy",
-        "parse": "https://json.iku.cool/api/?key=qzcIfXioQl8E6S5v1C&url=",
-        "parse2": "http://jf.1080p.icu:3232/home/api?type=dsp&uid=147565&key=adilmopuBEFJNUV067&url="
+        "parse": "https://svip.daina.hk/api/?uid=10799&key=osz5rPHQ1asZtJM1Jv&url=",
+        "parse2": "http://47.98.234.2:7768/api.php?from=wuduzy&url="
     }
     ]
